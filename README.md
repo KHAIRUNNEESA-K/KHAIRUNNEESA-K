@@ -51,7 +51,8 @@
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairunneesa&theme=tokyonight" alt="GitHub Streak" />
   <br/>
- <img src="https://github-readme-stats.vercel.app/api/top-langs?username=khairunnesa&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshvijayan103&layout=compact&langs_count=4&theme=gruvbox&hide_border=false&hide=python,java,c,c++" height="180" alt="Top Languages" />
 </p>
 
 ---
