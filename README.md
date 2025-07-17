@@ -52,8 +52,9 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairunneesa&theme=tokyonight" alt="GitHub Streak" />
   <br/>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairuneesa&layout=compact&langs_count=4&theme=gruvbox&hide_border=false&hide=python,java,c,c++" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairunneesa&layout=compact&langs_count=4&theme=gruvbox&hide_border=false&hide=python,java,c,c++" height="180" alt="Top Languages" />
 </p>
+
 
 
 
