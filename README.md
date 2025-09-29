@@ -47,13 +47,13 @@
 ### 📈 Khairunneesa's github stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=khairunneesa&show_icons=true&theme=tokyonight&title_color=58a6ff&hide_title=false&count_private=true&custom_title=khairunneesa's%20github%20stats" alt="Sreehari's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=khairunneesa&show_icons=true&theme=tokyonight&title_color=58a6ff&hide_title=false&count_private=true&custom_title=khairunneesa's%20github%20stats&cache_seconds=3600" alt="Khairunneesa's GitHub Stats" />
   <br/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=khairunneesa&theme=tokyonight" alt="GitHub Streak" />
   <br/>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vigneshvijayan103&layout=compact&langs_count=4&theme=gruvbox&hide_border=false&hide=python,java,c,c++" height="180" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=khairunneesa&layout=compact&langs_count=4&theme=gruvbox&hide_border=false&hide=python,java,c,c++" height="180" alt="Top Languages" />
 </p>
+
 
 
 
