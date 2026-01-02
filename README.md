@@ -55,10 +55,6 @@
 </a>
 
 
-## 📊 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=KHAIRUNNEESA-K&show_icons=true&theme=discord&hide_border=false" />
-
   
 ## 🏆 My GitHub Trophies
 
