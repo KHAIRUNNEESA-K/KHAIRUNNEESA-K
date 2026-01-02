@@ -50,11 +50,14 @@
   <a href="https://www.linkedin.com/in/khairunneesa-k/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&logoColor=white&style=for-the-badge" alt="LinkedIn" />
   </a>
-  <a href="nisa8610@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" alt="Email" />
-  </a>
-</p>
+ <a href="mailto:nisa8610@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge" />
+</a>
 
+
+## 📊 GitHub Stats
+
+![Khairunneesa's GitHub stats](https://github-readme-stats.vercel.app/api?username=KHAIRUNNEESA-K&show_icons=true&theme=discord)
 
   
 ## 🏆 My GitHub Trophies
