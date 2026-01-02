@@ -57,8 +57,10 @@
 
 
   
-  <img src="https://github-profile-trophy.vercel.app?username=vigneshvijayan103&theme=discord&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+## 🏆 My GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=KHAIRUNNEESA-K&theme=discord&column=-1&margin-w=8&margin-h=8)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 
